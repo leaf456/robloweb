@@ -6,3 +6,10 @@ There will be a roblox plugin that you can press, and it will (hopefully) genera
 This thing isn't going to be easy, so if you want to help, email me at [email not made yet](javascript:void)
 
 For more details see [the github page](https://github.com/leaf456/robloweb).
+# To do list
+## a list of all the things that I have done, and what's left to do.
+### to do
+* create plugin
+* make pugin generate script with output
+* the plugin will then output a list of instruction for babylon.js
+* just get basic bricks working
